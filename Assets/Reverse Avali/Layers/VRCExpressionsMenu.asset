@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -340790334, guid: 67cc4cb7839cd3741b63733d5adf0442, type: 3}
+  m_Name: VRCExpressionsMenu
+  m_EditorClassIdentifier: 
+  controls:
+  - name: Settings
+    icon: {fileID: 2800000, guid: a06282136d558c54aa15d533f163ff59, type: 3}
+    type: 103
+    parameter:
+      name: 
+    value: 1
+    style: 0
+    subMenu: {fileID: 11400000, guid: 5aa432e93db040349b673c6514bd1091, type: 2}
+    subParameters: []
+    labels: []
+  - name: Emotes
+    icon: {fileID: 2800000, guid: a06282136d558c54aa15d533f163ff59, type: 3}
+    type: 103
+    parameter:
+      name: 
+    value: 1
+    style: 0
+    subMenu: {fileID: 11400000, guid: 33a1f68e808a70146ada9f929567165b, type: 2}
+    subParameters: []
+    labels: []
+  - name: Puppets
+    icon: {fileID: 2800000, guid: a06282136d558c54aa15d533f163ff59, type: 3}
+    type: 103
+    parameter:
+      name: 
+    value: 1
+    style: 0
+    subMenu: {fileID: 11400000, guid: 4101b7636db2ceb4ba3f29d88348b7ca, type: 2}
+    subParameters: []
+    labels: []
+  - name: Expressions
+    icon: {fileID: 2800000, guid: af1ba8919b0ccb94a99caf43ac36f97d, type: 3}
+    type: 201
+    parameter:
+      name: PuppetMode
+    value: 3
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters:
+    - name: VRCFaceBlendH
+    - name: VRCFaceBlendV
+    labels:
+    - name: Happy
+      icon: {fileID: 0}
+    - name: Eyes Closed
+      icon: {fileID: 0}
+    - name: Crying
+      icon: {fileID: 0}
+    - name: Angry
+      icon: {fileID: 0}
