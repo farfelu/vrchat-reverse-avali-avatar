@@ -1,3 +1,6 @@
+# The project has been moved to [gitlab.com/farfelu/vrchat-reverse-avali-avatar/](https://gitlab.com/farfelu/vrchat-reverse-avali-avatar/) due to insufficient bandwidth/filespace on github.com
+
+
 # VRChat Reverse Avali Avatar
 ### Simple project of a semi Quest compatible Reverse Avali Avatar for VRChat with performance rank medium ![medium rank icon](.pages/medium-rank.png)
 This is a modified Reverse Avali with the base model from VictonRoy https://vrcmods.com/item/5305  
@@ -30,7 +33,7 @@ https://vrchat.com/home/launch?worldId=wrld_20ff4251-004e-4086-935f-1d1490719001
   * https://www.adobe.com/products/substance3d-painter.html
 
 ## How to use
-1. Clone or download this repository
+1. Clone or download the repository from https://gitlab.com/farfelu/vrchat-reverse-avali-avatar/
 2. Open the project in Unity (do not open any scene yet)
 3. Import the VRChat SDK
 4. Import Poiyomi Shaders
